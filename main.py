@@ -6,6 +6,8 @@ mins = 25
 break_time = 5
 set = 0
 
+basla = input("Başlamak için herhangi bir tuş girişi yapınız")
+
 while True:
     set +=1
     mins = 25
